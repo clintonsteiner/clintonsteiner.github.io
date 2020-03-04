@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Mechanical Engineering Student graduating in December of 2020.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[clintonsteiner@gmail.com](mailto:clintonsteiner@gmail.com)
